@@ -1,4 +1,6 @@
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=carloshrick&show_icons=true&title_color=000000&text_color=66666E&icon_color=000000&bg_color=9999A1&cache_seconds=2300">
+
 <p align="left">
   🦄 Linguagens: <strong>Nodejs, Typescript, JavaScript, React, HTML, CSS,</strong>
 </p>
@@ -23,4 +25,4 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/" /></a>
 </p>  
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carloshrick&show_icons=true&title_color=000000&text_color=66666E&icon_color=000000&bg_color=9999A1&cache_seconds=2300">
+
