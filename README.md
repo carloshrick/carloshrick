@@ -2,7 +2,7 @@
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=carloshrick&show_icons=true&title_color=000000&text_color=66666E&icon_color=000000&bg_color=9999A1&cache_seconds=2300">
 
 <p align="left">
-  🦄 Linguagens: <strong>Nodejs, Typescript, JavaScript, React, HTML, CSS,</strong>
+  Linguagens: <strong>Nodejs, Typescript, JavaScript, React, HTML, CSS,</strong>
 </p>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
