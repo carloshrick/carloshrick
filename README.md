@@ -1,5 +1,5 @@
 <div align="center">
-<img src= "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img src= "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)](link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospessoal2801@gmail.com)](mailto:carlospessoal2801@gmail.com)
