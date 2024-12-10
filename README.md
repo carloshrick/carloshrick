@@ -1,4 +1,4 @@
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw2fI2Jalvafbzy9EWI2WpNb&ust=1733950218463000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiZgomKnooDFQAAAAAdAAAAABAE.gif">
+<img src= "https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)](link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospessoal2801@gmail.com)](mailto:carlospessoal2801@gmail.com)
