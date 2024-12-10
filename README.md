@@ -19,8 +19,8 @@
 
 ## Github stats 📊
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=carloshrick&show_icons=true&count_private=true&theme=defaul&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=fff&text_color=fff" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshrick&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=fff&hide=Jupyter%20Notebook&text_color=b80f33" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=carloshrick&show_icons=true&count_private=true&theme=defaul&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=4287f5&text_color=fff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshrick&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=4287f5&hide=Jupyter%20Notebook&text_color=fff" height="192px"/></a>
   <br/>
 
 
