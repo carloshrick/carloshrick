@@ -1,7 +1,7 @@
-<div align=center>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)](link=https://www.linkedin.com/in/carlos-henrique-souza-051366279/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospessoal2801@gmail.com)](mailto:carlospessoal2801@gmail.com)
-</div>
+
 
 "Desenvolvedor mobile focado em **React Native** e **Expo**, apaixonado por criar interfaces interativas e soluções práticas. Com experiência em **React Navigation**, **styled-components** e navegação web, busco unir design e funcionalidade para oferecer a melhor experiência ao usuário."
 
