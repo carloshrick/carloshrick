@@ -7,7 +7,7 @@
 "Desenvolvedor mobile focado em **React Native** e **Expo**, apaixonado por criar interfaces interativas e soluções práticas. Com experiência em **React Navigation**, **styled-components** e navegação web, busco unir design e funcionalidade para oferecer a melhor experiência ao usuário."
 
 ## ⚙️💻 Tecnologias e Ferramentas:
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,powershell,nodejs,vscode,npm,bootstrap,arduino,androidstudio,postgres&perline=7">
@@ -18,9 +18,9 @@
 
 
 ## Github stats 📊
-  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=carloshrick&show_icons=true&count_private=true&theme=defaul&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=4287f5&text_color=fff" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Carlos Hrick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshrick&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=fff&icon_color=4287f5&hide=Jupyter%20Notebook&text_color=fff" height="192px"/></a>
   <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" />
+
